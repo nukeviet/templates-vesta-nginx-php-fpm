@@ -4,3 +4,5 @@ Upload các file nukeviet4.tpl, nukeviet4.stpl lên thư mục /usr/local/vesta/
 
 Sau đó vào cấu hình của website để chọn templates
 
+![templates](https://github.com/nukeviet/templates-vesta-nginx-php-fpm/blob/master/images/template.png)
+
